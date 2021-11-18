@@ -14,5 +14,7 @@ export default defineConfig({
   ],
   title: 'Hello FBMS',
   mode: 'site',
+  publicPath: '/requirement-combo/',
+  base: '/requirement-combo/',
   // more config: https://d.umijs.org/config
 });
